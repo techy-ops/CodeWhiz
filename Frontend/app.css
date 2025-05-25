@@ -1,0 +1,5 @@
+@'
+.App {
+  text-align: center;
+}
+'@ | Out-File -FilePath src/App.css -Encoding utf8
